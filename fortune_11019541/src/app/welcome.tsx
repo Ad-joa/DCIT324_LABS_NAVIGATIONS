@@ -14,7 +14,7 @@ export default function WelcomeScreen() {
         <View style={styles.buttonContainer}>
           <Button
             title="Get Started"
-            onPress={() => router.replace('/(drawer)/(tabs)' as any)}
+            onPress={() => router.replace('/home')}
             color="#002060"
           />
         </View>

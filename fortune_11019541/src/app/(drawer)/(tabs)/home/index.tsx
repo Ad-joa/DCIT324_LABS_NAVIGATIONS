@@ -40,7 +40,7 @@ export default function FeedScreen() {
 
   const handlePress = (item: typeof events[0]) => {
     router.push({
-      pathname: '/(drawer)/(tabs)/home/[id]',
+      pathname: '/home/[id]',
       params: {
         id: item.id,
         title: item.title,
