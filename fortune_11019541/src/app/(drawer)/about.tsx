@@ -11,7 +11,7 @@ export default function AboutScreen() {
       
       <View style={styles.infoBox}>
         <Text style={styles.label}>Developer Name:</Text>
-        <Text style={styles.value}>Fortune Asare</Text>
+        <Text style={styles.value}>Fortune Diapim Akpene</Text>
         
         <Text style={styles.label}>Student ID:</Text>
         <Text style={styles.value}>11019541</Text>

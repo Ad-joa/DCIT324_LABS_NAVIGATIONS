@@ -14,7 +14,7 @@ interface ProfileContextType {
 }
 
 const defaultProfile: ProfileData = {
-  name: 'Fortune Asare',
+  name: 'Fortune Diapim Akpene',
   indexNumber: '11019541',
   programme: 'BSc Computer Science',
   level: 'Level 300',
